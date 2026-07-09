@@ -1,0 +1,5 @@
+pygetwindow
+numpy
+click
+scipy
+keyboard
